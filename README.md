@@ -31,8 +31,6 @@
 ### 🗺️ Pay
 <img src="./assets/screenshots/pay.jpg" width="300" />
 
-> *(Make sure to place screenshots inside `assets/screenshots/` folder and update the image paths if different.)*
-
 ## 🧑‍💻 Tech Stack
 
 - **React Native (Expo)**
