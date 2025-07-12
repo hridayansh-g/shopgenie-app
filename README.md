@@ -48,10 +48,6 @@ npm install
 npx expo start
 ```
 
-## Backend API
-
-Backend deployed at:
-🔗 https://shopgenie-backend-lm88.onrender.com
 
 ## 🔗 Live Project
 https://shopgenie.netlify.app/
