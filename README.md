@@ -54,8 +54,7 @@ Backend deployed at:
 🔗 https://shopgenie-backend-lm88.onrender.com
 
 ## 🔗 Live Project
-
-i will upload live link soon
+https://shopgenie.netlify.app/
 
 ## 📄 License
 
