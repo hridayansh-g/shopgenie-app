@@ -48,9 +48,11 @@ npm install
 npx expo start
 ```
 
-
 ## 🔗 Live Project
 https://shopgenie.netlify.app/
+
+## YouTube Video
+https://www.youtube.com/watch?v=3JlimatB304
 
 ## 📄 License
 
