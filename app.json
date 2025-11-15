@@ -10,7 +10,10 @@
     "newArchEnabled": true,
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.anonymous.shopgenie-app"
+      "bundleIdentifier": "com.anonymous.shopgenie-app",
+      "runtimeVersion": {
+        "policy": "appVersion"
+      }
     },
     "android": {
       "adaptiveIcon": {
@@ -22,7 +25,8 @@
         "android.permission.CAMERA",
         "android.permission.CAMERA"
       ],
-      "package": "com.anonymous.shopgenieapp"
+      "package": "com.anonymous.shopgenieapp",
+      "runtimeVersion": "1.0.0"
     },
     "web": {
       "bundler": "metro",
@@ -44,6 +48,16 @@
     ],
     "experiments": {
       "typedRoutes": true
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "ae848169-c0e5-4a36-9896-a6b2d15eda01"
+      }
+    },
+    "owner": "hridayansh",
+    "updates": {
+      "url": "https://u.expo.dev/ae848169-c0e5-4a36-9896-a6b2d15eda01"
     }
   }
 }
